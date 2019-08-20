@@ -7,6 +7,7 @@ fi
 alias gotest='cd ~/test'
 alias gowork='cd ~/workplace/'
 alias goopensource='cd ~/workplace/open-source'
+alias goupload='cd ~/workplace/fileHttpServer/upload'
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
 
